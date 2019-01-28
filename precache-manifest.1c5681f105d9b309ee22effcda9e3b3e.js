@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/zomatoAPi-ghPages/static/js/runtime~main.7709298d.js"
   },
   {
-    "revision": "8d83235ad44d0d9cdea2",
-    "url": "/zomatoAPi-ghPages/static/js/main.8d83235a.chunk.js"
+    "revision": "86991af16de2d16f9d40",
+    "url": "/zomatoAPi-ghPages/static/js/main.86991af1.chunk.js"
   },
   {
-    "revision": "9a7a8e6e78d03554aeca",
-    "url": "/zomatoAPi-ghPages/static/js/1.9a7a8e6e.chunk.js"
+    "revision": "9a5d8f00c7e3d66d9352",
+    "url": "/zomatoAPi-ghPages/static/js/1.9a5d8f00.chunk.js"
   },
   {
-    "revision": "8d83235ad44d0d9cdea2",
+    "revision": "86991af16de2d16f9d40",
     "url": "/zomatoAPi-ghPages/static/css/main.a13a9f03.chunk.css"
   },
   {
-    "revision": "24ee55f2e18b809b33c3a34efe17d286",
+    "revision": "2c418c3d41e063e9cf9d42b7269f2051",
     "url": "/zomatoAPi-ghPages/index.html"
   }
 ];
